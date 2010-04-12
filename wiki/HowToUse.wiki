@@ -15,11 +15,18 @@
 
 
 *An example of the logging information*
-
-
-
-
-
+{{{
+2010-03-02 20:30:36,711 - cc.CCDaemon.run - -1216059712 - INFO  - Daemon running...
+2010-03-02 20:30:36,734 - cc.CurrentCostUpload - -1216059712 - INFO  - CurrentCostUpload starting...
+2010-03-02 20:30:36,760 - cc.CurrentCostUpload - -1216059712 - INFO  - Read/ Upload cycle starting...
+2010-03-02 20:30:36,837 - cc.CurrentCostUpload - -1216059712 - INFO  - Connected to CurrentCost device
+2010-03-02 20:30:37,226 - cc.CurrentCostUpload - -1216059712 - INFO  - Connected to FTP server
+2010-03-02 20:30:57,992 - cc.CurrentCostUpload - -1216059712 - INFO  - Batch = 5
+2010-03-02 20:31:16,425 - cc.CurrentCostUpload - -1216059712 - INFO  - Batch = 10
+2010-03-02 20:31:34,985 - cc.CurrentCostUpload - -1216059712 - INFO  - Batch = 15
+2010-03-02 20:31:53,415 - cc.CurrentCostUpload - -1216059712 - INFO  - Batch = 20
+2010-03-02 20:31:54,112 - cc.CurrentCostUpload - -1216059712 - INFO  - Sent data to FTP server
+}}}
 
 *An example of the xml output file*
 {{{
