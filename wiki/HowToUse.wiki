@@ -15,3 +15,10 @@
 
 
 *An example of the logging information*
+
+
+
+
+
+
+*An example of the xml output file*
