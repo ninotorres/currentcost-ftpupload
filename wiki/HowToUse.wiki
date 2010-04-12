@@ -1,5 +1,17 @@
 #summary How to use the application
 
-= Introduction =
+*This application has been tested and developed using Ubuntu 9.1*
 
-Add your content here.
+  # Install files in a new folder
+  # Configure the cc.cfg file to include ftp logging details
+  # If using the Meniscus service to present data int a Silverlight dashboard then enter create an account with Meniscus at http://home-energy.meniscus.co.uk/Default.aspx and enter the unique reference e-mailed to you into the cc.cfg file
+  # Open Terminal application
+  # Change directory to that created in 1 above
+  # ./ccdaemon.py start - this command starts the daemon
+  # ./ccdaemon.py stop - this command stops the daemon
+  # tail cclogging.log - this command shows the latest logging information
+
+
+
+
+*An example of the logging information*
