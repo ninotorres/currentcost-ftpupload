@@ -1,4 +1,4 @@
-#summary How to use the application
+#summary Overview
 
 = Introduction =
 
