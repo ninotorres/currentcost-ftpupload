@@ -1,22 +1,27 @@
 #summary Information displayed by the Silverlight Dashboard
+#labels Featured
 
 *The Silverlight Dashboard presents a range of graphs and *intelligent* real time electricity information that the user can configure. It is delivered by Meniscus and hosted on our servers. It is free to use with a limit of one Current Cost meter per e-mail address.*
 
 
 *What does the Silverlight Dashboard do?*
-The Silverlight Dashboard can be run in any conventional browser. There are currently 6 diffierent
+The Silverlight Dashboard can be run in any conventional browser. There are currently 6 different graphs that the user can select and up to 4 can be viewed at any time.
+The dashboard is designed to be displayed 24/7 and we push data to the dashboard so there is actually nothing th euser has to do - the data is automatically updated.
 
 
 *What information is displayed?*
-
-
+  # Real Time data (every 6 seconds for the Current Cost meter) for the 3 electricity channels and the one temperature channel. This data is help for 24 hours
+  # Aggregated half hour values for the 3 electricity channels and the average temperature. This data is calculated from the raw data and can be held foor several years. This forms the basis of all historical data analysis.
+  # Potential to include gas and oil (and in fact any other utility)
+  # Carbon equivalent for the Total electricity use and Total gas and oil if used.
+  # Cost of electricity and gas and oil if used
+  # Energy benchmarks
 
 *How is this calculated?*
+All the above is automatically set up when you register. We utilise a very powerful calculation engine that enables us to set up any calculation. For the Current Cost meters we have set up a "Process Template" that includes all the Data Items, costs, conversions and calulations required.
 
 
-
-
-The Dashboard will continue to develop as we improve the range of graphics available. Features that we are developing include:
+*The Dashboard will continue to develop as we improve the range of graphics available.* Features that we are developing include:
   # Automated target setting - compare actual performance against targets
   # Automated identification of cost saving opportunities
   # New graph to display little graphs of the daily energy use for each day of the month
