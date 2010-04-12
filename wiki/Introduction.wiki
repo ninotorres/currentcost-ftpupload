@@ -1,0 +1,13 @@
+#summary How to use the application
+
+= Introduction =
+
+This application is designed to upload data from a Current Cost meter to an ftp site. It includes the setting up an operation of a daemon to automatically poll the meter
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
