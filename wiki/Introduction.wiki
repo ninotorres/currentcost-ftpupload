@@ -2,12 +2,32 @@
 
 = Introduction =
 
-This application is designed to upload data from a Current Cost meter to an ftp site. It includes the setting up an operation of a daemon to automatically poll the meter
+This application is designed to upload data from a Current Cost meter to an ftp site. It includes the setting up an operation of a daemon to automatically poll the meter. There is a logging facility to track connections made to the ftp site and the batching up of readings. This batching facility allows the user to set the number of raw readings to include in each data file. The aplication automatically creates a new batch if the data changes to ensure that each file only has raw data for the one day.
 
+Each file is named with a configurable name followed by the date and time stamp that the data was uploaded.
 
-= Details =
+There are 5 files for the application:
+  * cc.cfg -  Configuration file
+  * ccdaemon.py - 
+  * daemon.py - 
+  * currcost.py - 
+  * loggerconfig.py - 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Format of the Configuration file
+{{{
+  [CurrentCostMeter] 
+  port: /dev/ttyUSB0 
+  baud: 57600 
+  bytesize: 8 
+  parity: N 
+  stopbits: 1 
+  timeout: 3 
+
+  [Upload] 
+  host: Enter FTP address
+  user: Enter FTP username
+  password: Enter FTP password
+  file: Enter the Unique Number we mail you in here
+  tmp: samples.dat 
+  batch: 20 (number of readings to batch together)
+}}}
