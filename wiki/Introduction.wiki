@@ -12,7 +12,6 @@ There are 5 files for the application:
   * daemon.py - 
   * currcost.py - 
   * loggerconfig.py - 
-
 Format of the Configuration file
 {{{
   [CurrentCostMeter] 
