@@ -11,7 +11,7 @@ There are 5 files for the application:
   * cc.cfg -  Configuration file
   * ccdaemon.py - When run as a daemon this module is the interface to start, stop and restart the process
   * daemon.py - This module implements teh daemon process
-  * currcost.py - Implementation file. Connects to the Current Cost meter adn to the FTP site. Creates a temporary file, writes the XML header, batches the data and writes the temporary file to the ftp server
+  * currcost.py - Implementation file. Connects to the Current Cost meter and to the FTP site. Creates a temporary file, writes the XML header, batches the data and writes the temporary file to the ftp server
   * loggerconfig.py - Set up the python logging system. This file grows without restriction
 Format of the Configuration file
   {{{
