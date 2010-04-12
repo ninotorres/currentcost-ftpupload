@@ -5,6 +5,7 @@
 
 
 *What does the Silverlight Dashboard do?*
+
 The Silverlight Dashboard can be run in any conventional browser. There are currently 6 different graphs that the user can select and up to 4 can be viewed at any time.
 The dashboard is designed to be displayed 24/7 and we push data to the dashboard so there is actually nothing th euser has to do - the data is automatically updated.
 
