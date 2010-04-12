@@ -1,17 +1,23 @@
 #summary Information displayed by the Silverlight Dashboard
 
-*The Silverlight Dashboard presents a range of graphs and real time electricity information that the user can configure. It is delivered by Meniscus and hosted on our servers. It is free to use with a limit of one Current Cost meter per e-mail address.*
+*The Silverlight Dashboard presents a range of graphs and *intelligent* real time electricity information that the user can configure. It is delivered by Meniscus and hosted on our servers. It is free to use with a limit of one Current Cost meter per e-mail address.*
 
 
 *What does the Silverlight Dashboard do?*
-
+The Silverlight Dashboard can be run in any conventional browser. There are currently 6 diffierent
 
 
 *What information is displayed?*
 
 
 
+*How is this calculated?*
+
+
 
 
 The Dashboard will continue to develop as we improve the range of graphics available. Features that we are developing include:
-  #
+  # Automated target setting - compare actual performance against targets
+  # Automated identification of cost saving opportunities
+  # New graph to display little graphs of the daily energy use for each day of the month
+  # New graph to allow the user to overlay a number of similar days
