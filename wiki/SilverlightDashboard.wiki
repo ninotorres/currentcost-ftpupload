@@ -8,7 +8,6 @@
 The Silverlight Dashboard can be run in any conventional browser. There are currently 6 different graphs that the user can select and up to 4 can be viewed at any time.
 The dashboard is designed to be displayed 24/7 and we push data to the dashboard so there is actually nothing th euser has to do - the data is automatically updated.
 
-
 *What information is displayed?*
   # Real Time data (every 6 seconds for the Current Cost meter) for the 3 electricity channels and the one temperature channel. This data is help for 24 hours
   # Aggregated half hour values for the 3 electricity channels and the average temperature. This data is calculated from the raw data and can be held foor several years. This forms the basis of all historical data analysis.
