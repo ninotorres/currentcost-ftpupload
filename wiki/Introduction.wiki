@@ -3,7 +3,7 @@
 
 = Introduction =
 
-This application is designed to upload data from a Current Cost meter to an ftp site. It includes the setting up an operation of a daemon to automatically poll the meter. There is a logging facility to track connections made to the ftp site and the batching up of readings. This batching facility allows the user to set the number of raw readings to include in each data file. The aplication automatically creates a new batch if the data changes to ensure that each file only has raw data for the one day.
+This application is designed to upload data from a Current Cost meter to an ftp site. It includes the setting up and operation of a daemon to automatically poll the meter. There is a logging facility to track connections made to the ftp site and the batching up of readings. This batching facility allows the user to set the number of raw readings to include in each data file. The aplication automatically creates a new batch if the data changes to ensure that each file only has raw data for the one day.
 
 Each file is named with a configurable name followed by the date and time stamp that the data was uploaded.
 
