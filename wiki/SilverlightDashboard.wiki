@@ -3,6 +3,7 @@
 
 *The Silverlight Dashboard presents a range of graphs and *intelligent* real time electricity information that the user can configure. It is delivered by Meniscus and hosted on our servers. It is free to use with a limit of one Current Cost meter per e-mail address.*
 
+To see an example of the dashboard then please click here http://dashboard.meniscus.co.uk/home-energy.html or there is a video if you do have Silverlight installed http://home-energy.meniscus.co.uk/flash/Home%20Energy%20Dashboard.htm
 
 *What does the Silverlight Dashboard do?*
 
