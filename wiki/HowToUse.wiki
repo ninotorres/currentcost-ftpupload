@@ -5,7 +5,7 @@
 
   # Install files in a new folder
   # Configure the cc.cfg file to include ftp logging details
-  # If using the Meniscus service to present data int a Silverlight dashboard then enter create an account with Meniscus at http://home-energy.meniscus.co.uk/Default.aspx and enter the unique reference e-mailed to you into the cc.cfg file
+  # If using the Meniscus service to present data in a Silverlight dashboard then enter create an account with Meniscus at http://home-energy.meniscus.co.uk/Default.aspx and enter the unique reference e-mailed to you into the cc.cfg file
   # Open Terminal application
   # Change directory to that created in 1 above
   # ./ccdaemon.py start - this command starts the daemon
