@@ -12,7 +12,10 @@
   # ./ccdaemon.py stop - this command stops the daemon
   # tail cclogging.log - this command shows the latest logging information
 
+*Some of the features of the application*
 
+  # Version 1.2 on
+    * Log files are limited to 4Mb each. Two files created and the first one is overwritten once the second reached the 4Mb limit
 
 
 *An example of the logging information*
