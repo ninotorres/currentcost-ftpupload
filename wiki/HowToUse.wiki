@@ -4,7 +4,7 @@
 *This application has been tested and developed using Ubuntu 9.1*
 
   # Install files in a new folder
-  # Configure the cc.cfg file to include ftp logging details
+  # Configure the cc.cfg file to include ftp logging details (version 1.1.1 on has these details already set up)
   # If using the Meniscus service to present data in a Silverlight dashboard then enter create an account with Meniscus at http://home-energy.meniscus.co.uk/Default.aspx and enter the unique reference e-mailed to you into the cc.cfg file
   # Open Terminal application
   # Change directory to that created in 1 above
