@@ -14,9 +14,13 @@
 
 *Some of the features of the application*
 
-  # Version 1.2 on
-    * Log files are limited to 4Mb each. Two files created and the first one is overwritten once the second reached the 4Mb limit
-    * Data files are now stored on the local machine in the CurrentCostClient/data directory if the ftp server is stopped. Files are automatiucally uploaded once the conenction is re-established.
+  # Version 1.2
+    * Log files are limited to 4Mb each. Two files created and the first one is overwritten once the second reached the 4Mb limit.
+    * Data files are now stored on the local machine in the CurrentCostClient/data directory if the ftp server is stopped. Files are automatically uploaded once the conenction is re-established.
+
+  # Version 1.0
+   * Each 6 second reading is batched into a file depending on the value set in the cc.cfg configuration file.
+   * new files are automatically created in the middle of a batch period if the computer date switches i.e. at midnight.
 
 
 *An example of the logging information*
