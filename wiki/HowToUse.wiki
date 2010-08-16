@@ -16,7 +16,7 @@
 
   # Version 1.2
     * Log files are limited to 4Mb each. Two files created and the first one is overwritten once the second reached the 4Mb limit.
-    * Data files are now stored on the local machine in the 'CurrentCostClient'/data directory if the ftp server is stopped. Files are automatically uploaded once the connection is re-established.
+    * Data files are now stored on the local machine in the CurrentCostClient/data directory if the ftp server is stopped. Files are automatically uploaded once the connection is re-established.
 
   # Version 1.0
    * Each 6 second reading is batched into a file depending on the value set in the cc.cfg configuration file.
