@@ -29,5 +29,6 @@ Format of the Configuration file
   password: Enter FTP password
   file: Enter the Unique Number we mail you in here
   tmp: samples.dat 
+  datapath:  <Enter the name for the data folder - part of the CurrentCost download> i.e. /home/meniscus/CurrentCostClient/data
   batch: 20 (number of readings to batch together)
 }}}
