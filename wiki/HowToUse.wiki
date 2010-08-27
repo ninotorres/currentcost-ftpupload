@@ -4,10 +4,12 @@
 *This application has been tested and developed using Ubuntu 9.1*
 
   # Install files in a new folder
+  # Right click on the file names ccdaemon.py. Goto the Permissions tab and make sure that the file has Execute permissions.
   # Configure the cc.cfg file to include ftp logging details (version 1.1.1 on has these details already set up)
   # If using the Meniscus service to present data in a Silverlight dashboard then enter create an account with Meniscus at http://home-energy.meniscus.co.uk/Default.aspx and enter the unique reference e-mailed to you into the cc.cfg file
   # Open Terminal application
-  # Change directory to that created in 1 above
+  # Type gedit .bashrc and then enter the following command at the bottom of the file export CURRENT_COST_HOME=/home/meniscus/CurrentClostClient - or wherever you have installed the CurrentCost application. This command is required to allow Ubuntu to find and run the CurrentCost application
+  # Change directory to that created in 1 above using using the cd command
   # ./ccdaemon.py start - this command starts the daemon
   # ./ccdaemon.py stop - this command stops the daemon
   # tail cclogging.log - this command shows the latest logging information
