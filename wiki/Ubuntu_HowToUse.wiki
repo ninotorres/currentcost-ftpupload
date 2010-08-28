@@ -1,4 +1,4 @@
-#summary How to use the application - Ubuntu
+#summary How to use the application - Ubuntu version
 #labels Featured
 
 *This application has been tested and developed using Ubuntu 9.1*
