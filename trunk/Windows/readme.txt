@@ -1,0 +1,1 @@
+This is Visual Studio solution.  Download using a client - I use Tortiose SVN.
