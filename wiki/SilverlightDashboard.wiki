@@ -23,7 +23,6 @@ All the above is automatically set up when you register. We utilise a very power
 
 
 *The Dashboard will continue to develop as we improve the range of graphics available.* Features that we are developing include:
-  # Automated target setting - compare actual performance against targets
-  # Automated identification of cost saving opportunities
-  # New graph to display little graphs of the daily energy use for each day of the month
-  # New graph to allow the user to overlay a number of similar days
+  # Automated target setting - compare actual performance against targets - Available!
+  # Automated identification of cost saving opportunities - Baseline Data now available!
+  # New graph to allow the user to overlay a number of similar days - Seasonal Average graph available now!
