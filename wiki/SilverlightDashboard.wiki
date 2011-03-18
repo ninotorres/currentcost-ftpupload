@@ -7,20 +7,28 @@ To see an example of the dashboard then please click here http://dashboard.menis
 
 *What does the Silverlight Dashboard do?*
 
-The Silverlight Dashboard can be run in any conventional browser. There are currently 6 different graphs that the user can select and up to 4 can be viewed at any time.
-The dashboard is designed to be displayed 24/7 and we push data to the dashboard so there is actually nothing th euser has to do - the data is automatically updated.
+The Silverlight Dashboard can be run in any conventional browser. There are currently 9 different graphs that the user can select and up to 4 can be viewed at any time.
+The dashboard is designed to be displayed 24/7 and we push data to the dashboard so there is actually nothing the user has to do - the data is automatically updated.
 
 *What information is displayed?*
   # Real Time data (every 6 seconds for the Current Cost meter) for the 3 electricity channels and the one temperature channel. This data is help for 24 hours
-  # Aggregated half hour values for the 3 electricity channels and the average temperature. This data is calculated from the raw data and can be held foor several years. This forms the basis of all historical data analysis.
-  # Potential to include gas and oil (and in fact any other utility)
+  # Summary of the Real Time data for the last 24 hours. This graph does not update and the data is filtered to reduce the volume of data being uploaded.
+  # Aggregated half hour values for the 3 electricity channels and the average temperature. This data is calculated from the raw data and can be held for several years. This forms the basis of all historical data analysis.
+  # Aggregated Daily values for the 3 electricity channels and for the total electricity use
+  # Pie chart of use. This sums the total electricity for each channel over the required date range and presents in a pie chart
   # Carbon equivalent for the Total electricity use and Total gas and oil if used.
-  # Cost of electricity and gas and oil if used
+  # Cost of electricity and gas and oil if used. This includes the comparison to target use and the savings achieved.
   # Energy benchmarks
 
 *How is this calculated?*
 All the above is automatically set up when you register. We utilise a very powerful calculation engine that enables us to set up any calculation. For the Current Cost meters we have set up a "Process Template" that includes all the Data Items, costs, conversions and calulations required.
 
+*Customisation
+Users can now change a number of settings for their data so that you can customise the details you want. This includes:
+  # Enter the Unit cost of electricity, any cost savings targets you want to achieve and any benchmarks.
+  # Sign up to receive a monthly report by Excel of all the aggregated daily data, showing the cost, and a range of other useful information
+  # Sign up to view a Seasonal Average graph of your data. This also calculates your base load consumption. The Seasonal Average graph shows how your current consumption compares to the average of similar days in the past.
+  # Sign up to download the History data from the Current Cost. So if you turn your PC off, then next time you turn it on again we will import the historical data the Current Cost used when your PC was turned off. So you will have a complete record of your consumption.
 
 *The Dashboard will continue to develop as we improve the range of graphics available.* Features that we are developing include:
   # Automated target setting - compare actual performance against targets - Available!
