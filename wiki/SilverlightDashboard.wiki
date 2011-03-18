@@ -26,10 +26,10 @@ All the above is automatically set up when you register. We utilise a very power
 *Customisation*
 
 Users can now change a number of settings for their data so that you can customise the details you want. This includes:
-  # Enter the Unit cost of electricity, any cost savings targets you want to achieve and any benchmarks.
-  # Sign up to receive a monthly report by Excel of all the aggregated daily data, showing the cost, and a range of other useful information
-  # Sign up to view a Seasonal Average graph of your data. This also calculates your base load consumption. The Seasonal Average graph shows how your current consumption compares to the average of similar days in the past.
-  # Sign up to download the History data from the Current Cost. So if you turn your PC off, then next time you turn it on again we will import the historical data the Current Cost used when your PC was turned off. So you will have a complete record of your consumption.
+  # Enter the Unit cost of electricity, any cost savings targets you want to achieve and any benchmarks. http://home-energy.meniscus.co.uk/cc_calc_change.aspx
+  # Sign up to receive a monthly report by Excel of all the aggregated daily data, showing the cost, and a range of other useful information http://home-energy.meniscus.co.uk/cc_report_signup.aspx
+  # Sign up to view a Seasonal Average graph of your data. This also calculates your base load consumption. The Seasonal Average graph shows how your current consumption compares to the average of similar days in the past.http://home-energy.meniscus.co.uk/cc_seasonal.aspx
+  # Sign up to download the History data from the Current Cost. So if you turn your PC off, then next time you turn it on again we will import the historical data the Current Cost used when your PC was turned off. So you will have a complete record of your consumption. http://home-energy.meniscus.co.uk/cc_history.aspx
 
 *The Dashboard will continue to develop as we improve the range of graphics available.* Features that we are developing include:
   # Automated target setting - compare actual performance against targets - Available!
