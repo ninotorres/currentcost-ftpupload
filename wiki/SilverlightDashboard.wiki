@@ -24,6 +24,7 @@ The dashboard is designed to be displayed 24/7 and we push data to the dashboard
 All the above is automatically set up when you register. We utilise a very powerful calculation engine that enables us to set up any calculation. For the Current Cost meters we have set up a "Process Template" that includes all the Data Items, costs, conversions and calulations required.
 
 *Customisation*
+
 Users can now change a number of settings for their data so that you can customise the details you want. This includes:
   # Enter the Unit cost of electricity, any cost savings targets you want to achieve and any benchmarks.
   # Sign up to receive a monthly report by Excel of all the aggregated daily data, showing the cost, and a range of other useful information
